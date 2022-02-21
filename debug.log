@@ -1,0 +1,35 @@
+[0511/122859.617:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\scoped_dir105956_890184545\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0511/122859.618:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Admin\AppData\Local\Temp\scoped_dir105956_890184545\Crashpad\reports\cb568e78-9955-469f-8c6b-98de812e2cc0.dmp: The system cannot find the path specified. (0x3)
+[0511/122859.618:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0517/114449.994:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\scoped_dir59492_345177663\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0522/120559.042:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0522/132122.132:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\scoped_dir46952_166682453\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0522/132122.133:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Admin\AppData\Local\Temp\scoped_dir46952_166682453\Crashpad\reports\b04c5e4e-b716-4fec-88c2-c771d670f630.dmp: The system cannot find the path specified. (0x3)
+[0522/132122.133:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0523/220336.275:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\scoped_dir113608_1179320360\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0523/220336.276:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Admin\AppData\Local\Temp\scoped_dir113608_1179320360\Crashpad\reports\64742982-7cfd-4746-9edd-4c99d85d6be7.dmp: The system cannot find the path specified. (0x3)
+[0523/220336.276:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0524/132501.571:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\scoped_dir17008_85442954\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0524/132501.572:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Admin\AppData\Local\Temp\scoped_dir17008_85442954\Crashpad\reports\7dd89310-4487-4921-8ff3-b1ef57ec234b.dmp: The system cannot find the path specified. (0x3)
+[0524/132501.572:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0529/102625.989:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0601/153012.808:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0601/164122.526:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0602/172828.970:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0604/202606.894:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Admin\AppData\Local\Temp\scoped_dir35608_1926592670\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0607/190433.005:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0610/140542.814:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1005/162310.951:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1126/213918.739:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1129/192758.889:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1212/203305.549:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1212/210456.659:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1223/112825.385:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1223/122633.060:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1229/141851.500:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1229/145632.169:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/215231.295:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0117/232411.156:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0118/234548.584:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0119/215738.302:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0120/215736.493:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
